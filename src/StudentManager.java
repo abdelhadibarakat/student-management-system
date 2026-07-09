@@ -132,8 +132,8 @@ public class StudentManager {
 
         int age = getRangeValidatedInput(
                 "Enter student age: ",
-                5,
-                19
+                18,
+                22
         );
 
         String selectedMajor = getListValidatedInput(
@@ -165,8 +165,8 @@ public class StudentManager {
 
         int age = getRangeValidatedInput(
                 "Enter student age: ",
-                5,
-                19
+                22,
+                24
         );
 
         String selectedMajor = getListValidatedInput(
